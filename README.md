@@ -101,7 +101,7 @@ Weather-App/
 - React.js
 - Vite
 - OpenWeather API
-- CSs
+- CSS
 
 ---
 
